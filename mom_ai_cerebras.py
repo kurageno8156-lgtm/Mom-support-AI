@@ -1,6 +1,5 @@
 import requests
 from flask import Flask, request, jsonify, render_template_string
-from pyngrok import ngrok
 import threading
 import webbrowser
 
