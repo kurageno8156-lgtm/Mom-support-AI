@@ -155,6 +155,7 @@ HTML_TEMPLATE = '''
         .toast.show { opacity: 1; }
     </style>
 </head>
+　　　<link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuNWFas5kAAADxSURBVDhP5ZI9TsNAEIVfQqKgooJCokADUkVBSYUiJVLLHIDmDByAK1DREEXENbhGLoA0NGnSpM1nYm+8SZr4mPdGM3qed8cztsI/Pz/zfD6zs9l8wjAMkiTZqOsao6qq/Xw+2+v1usqyLMsdLpcLJ9NJF4w4t9tt6Pt+PEkSAEIIiOOYsixJ05Su67qK4xhN00RRFDZNQ9d1aJomU9c1bdsiy7JYlmVvWRaz2Yw0TfF4POBwOFRZlsm2bT+MEkLoWZZhmiYEQYB5nk/7vo+maTAej2GaJkIInE4n3HWdcBwHQRAgDMP9NE0RhiF2ux0cx8E0TViWxThNU8RxDMMwsCwLqqrC933keQ5VVWGaprquK4yiaFdRFPj9f0FKKaMoCna7HW63GzzPYxgGpFkiCALmeX5/Ho9H+v1+L01T0jQlTdNfb+rfsxfJ/GLnKQ3rGgAAAABJRU5ErkJggg==">
 <body>
     <div class="container">
         <div class="header">
